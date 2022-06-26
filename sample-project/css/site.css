@@ -131,4 +131,11 @@
                 max-width: 630px;
                 min-width: 630px;
             }
+            body {
+                background-image: url("barn.jpg");
+              }
+              body {
+                background-image: url("barn.jpg");
+                background-repeat: repeat-y;
+              }
         }
